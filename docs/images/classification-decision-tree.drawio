@@ -1,0 +1,157 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="2074" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="UVPQ9vqaEfh1eL_n8FKq-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Dataset too large to &lt;br&gt;be classified manually&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-62">
+          <mxGeometry x="-0.2193" y="-4" relative="1" as="geometry">
+            <mxPoint x="40" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="549" y="220" />
+              <mxPoint x="371" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Small and can &lt;br&gt;be classified &lt;br&gt;manually&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-63">
+          <mxGeometry x="0.3675" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="Is the dataset small and can it be classified manually by a group during the research process?" style="rounded=1;fillColor=#d0cee2;strokeColor=#56517e;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="120" width="418" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8" target="UVPQ9vqaEfh1eL_n8FKq-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="790" />
+              <mxPoint x="569" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8" target="UVPQ9vqaEfh1eL_n8FKq-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="800" />
+              <mxPoint x="759" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8" target="UVPQ9vqaEfh1eL_n8FKq-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="800" />
+              <mxPoint x="949" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8" target="UVPQ9vqaEfh1eL_n8FKq-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="800" />
+              <mxPoint x="1139" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Some manual labelling/validation usaully used with other methods&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-83">
+          <mxGeometry x="0.0664" y="-2" relative="1" as="geometry">
+            <mxPoint x="-33" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Method 0:&#xa;Manual labelling or validation of predicted labels" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="282" y="625.5" width="178" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-56" value="Method 1:&#xa;Attribute based classification" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="625.5" width="178" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-57" value="Method 2:&#xa;Pattern matching classification" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="625.5" width="178" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-58" value="Method 3:&#xa;Recommendation / machine-assisted classification" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="860" y="625.5" width="178" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-59" value="Method 4:&#xa;Machine Learning based method for full classification" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="625.5" width="178" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVPQ9vqaEfh1eL_n8FKq-60" target="UVPQ9vqaEfh1eL_n8FKq-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="855" y="360" />
+              <mxPoint x="1049" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Variables in category &lt;br&gt;variables&amp;nbsp;highly variable &lt;br&gt;or volume too large&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-64">
+          <mxGeometry x="0.3603" y="-1" relative="1" as="geometry">
+            <mxPoint x="-79" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVPQ9vqaEfh1eL_n8FKq-60" target="UVPQ9vqaEfh1eL_n8FKq-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="855" y="360" />
+              <mxPoint x="569" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-72" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Yes, and structured&amp;nbsp;&lt;br&gt;variables considered&amp;nbsp;&lt;br&gt;small enough for manual mapping&lt;br&gt;to desired taxonomy&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-65">
+          <mxGeometry x="0.2932" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVPQ9vqaEfh1eL_n8FKq-60" target="UVPQ9vqaEfh1eL_n8FKq-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="855" y="360" />
+              <mxPoint x="759" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Stuctured variables exist &lt;br&gt;and can be mapped, but are &lt;br&gt;found to be inconsistent&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-66">
+          <mxGeometry x="0.0481" y="-1" relative="1" as="geometry">
+            <mxPoint y="56" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-60" value="Does the dataset contain enough structured variables to explicitly assign/classify each record to an individual consumer segment?" style="rounded=1;fillColor=#d0cee2;strokeColor=#56517e;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="661" y="260" width="388" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVPQ9vqaEfh1eL_n8FKq-61" target="UVPQ9vqaEfh1eL_n8FKq-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1049" y="510" />
+              <mxPoint x="949" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-75" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Volume is manageable&amp;nbsp;&lt;br&gt;or preference for full QA&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;preferred&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-67">
+          <mxGeometry x="0.3252" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVPQ9vqaEfh1eL_n8FKq-61" target="UVPQ9vqaEfh1eL_n8FKq-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1049" y="510" />
+              <mxPoint x="1139" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;All data cannot be &lt;br&gt;validated manually&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVPQ9vqaEfh1eL_n8FKq-68">
+          <mxGeometry x="0.3851" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVPQ9vqaEfh1eL_n8FKq-61" value="Is volume excessive to validate each unique record manually?" style="rounded=1;fillColor=#d0cee2;strokeColor=#56517e;shadow=1;fontStyle=0;fontSize=15;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="930" y="420" width="238" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
