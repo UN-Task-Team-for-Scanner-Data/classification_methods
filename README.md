@@ -1,3 +1,9 @@
+## Content WIP
+
+**NOTE**: This repository is still in the works
+
+-------------------------
+
 # Classification methods used on new data sources
 
 This repository is a companion [to the online handbook](https://unstats.un.org/wiki/display/GWGSD/Handbook+on+utilising+new+data+sources+in+the+production+of+consumer+price+statistics) developed by the [UN Task Team on Scanner data](https://unstats.un.org/bigdata/task-teams/scanner/index.cshtml) to guide National Statistical Offices (NSOs) in the implementation of new data sources such as transaction data and web scraped data in the production of consumer price statistics -- specifically to classification methods applicable on this data. Thus this repository aims to hosts standardized code, public demonstration datasets (where applicable), and notebooks -- that NSOs can review as a companion to the material written in the [Classification section of the online handbook](https://unstats.un.org/wiki/display/GWGSD/Classification). It also is the storage location of some key artifacts that workstream developing classification used throughout the guidance (such as diagrams).
