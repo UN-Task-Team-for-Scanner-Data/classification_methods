@@ -1,0 +1,22 @@
+# notebook content not relevant in the git
+.ipynb_checkpoints
+*.log
+*.pyc
+
+#draw.io interim file
+*.bkp
+
+# Whole folders
+env/*
+build/*
+.vscode
+
+# Data files
+*_sensitive.csv
+*_sensitive.feather
+*_sensitive.pkl
+*_sensitive.zip
+*_sensitive.gzip
+*_sensitive.h5
+*_sensitive.xlsx
+*_sensitive.parquet
